@@ -27,4 +27,3 @@ for dt in daterange(start_dt, end_dt):
         print ("Creation of the directory %s failed" % path)
     else:
         print ("Successfully created the directory %s" % path)
-1

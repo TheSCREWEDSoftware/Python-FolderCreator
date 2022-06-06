@@ -14,15 +14,15 @@
 
 5) And in the same folder as the python file, should be a folders.
 
->> Starting Day: 1
->> Ending Day: 20
->> Month: 2
->> Year 2002
+> Starting Day: 1
+> Ending Day: 20
+> Month: 2
+> Year 2002
 
->> 01-02-2002
->> 02-02-2002
->> 03-02-2002
+> 01-02-2002
+> 02-02-2002
+> 03-02-2002
 ...
->> 18-02-2002
->> 19-02-2002
->> 20-02-2002
+> 18-02-2002
+> 19-02-2002
+> 20-02-2002

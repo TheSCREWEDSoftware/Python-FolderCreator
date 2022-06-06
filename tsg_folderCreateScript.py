@@ -1,3 +1,8 @@
+#main.py
+#Author: Augusto Mendes
+#E-mail: augustomendes4426[at]gmail.com
+#Version 2
+
 import os
 
 def messages(x):
